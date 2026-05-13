@@ -1,5 +1,7 @@
-# 김민석 — Product Manager & Developer
+# 김민석 MIN SEOK
 
+**[Product Manager & Developer]**  
+  
 기획에서 배포까지 직접 설계하고 구현합니다.
 AI 서비스 기획과 풀스택 개발을 함께 합니다.
 
